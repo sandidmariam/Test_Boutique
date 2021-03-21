@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: 'PT-BOLD';
+  src: local('PTSans'), url(./Fonts/PTSans-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT-BOLD-ITALIC';
+  src: local('PTSans'), url(./Fonts/PTSans-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT-ITALIC';
+  src: local('PTSans'), url(./Fonts/PTSans-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'PT-Regular';
+  src: local('PTSans'), url(./Fonts/PTSans-Regular.ttf) format('truetype');
+}
